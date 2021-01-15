@@ -169,8 +169,8 @@ footer .footer-down {
 .footer-left-ul {
   padding-inline-start: 0;
   padding-left: 1rem;
+  margin: 1rem;
 }
-
 footer section ul li {
   display: inline-block;
   margin-right: 1.3rem;
